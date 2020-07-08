@@ -56,7 +56,7 @@ body{
     margin-left:0px;
 }
 .cat-box h4{
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 24px;
     font-weight: 500;
 }
@@ -119,13 +119,14 @@ body{
 .testimonial{
     
     background-color: #E5E5E5;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .testimonial h1{
     padding-top: 50px;
     font-size: 36px;
     line-height: 54px;
     text-align: center;
+    font-weight: bold;
 }
 .testimonial-box{
     margin-top: 50px;
